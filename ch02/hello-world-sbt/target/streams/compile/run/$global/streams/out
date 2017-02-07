@@ -1,7 +1,7 @@
 [0m[[0minfo[0m] [0mRunning SbtScalaMainApp [0m
 [0m[[0mdebug[0m] [0mWaiting for threads to exit or System.exit to be called.[0m
 [0m[[0mdebug[0m] [0m  Classpath:[0m
-[0m[[0mdebug[0m] [0m	/home/kielini/development/scala/SBTProject/hello-world-sbt/target/scala-2.10/classes[0m
+[0m[[0mdebug[0m] [0m	/home/kielini/development/scala/Building-Applications-Scala/ch02/hello-world-sbt/target/scala-2.10/classes[0m
 [0m[[0mdebug[0m] [0m	/home/kielini/.sbt/boot/scala-2.10.6/lib/scala-library.jar[0m
 [0m[[0mdebug[0m] [0mWaiting for thread run-main-0 to terminate.[0m
 [0m[[0mdebug[0m] [0m	Thread run-main-0 exited.[0m
